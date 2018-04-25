@@ -15,3 +15,9 @@ class Dog
     @this_dogs_breed
   end
 end
+
+fido = Dog.new 
+
+lassie = Dog.new 
+
+snoopy = Dog.new
