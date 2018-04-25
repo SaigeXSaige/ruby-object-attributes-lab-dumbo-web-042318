@@ -18,6 +18,3 @@ end
 
 fido = Dog.new
 
-lassie = Dog.new("Lassie")
-
-snoopy = Dog.new("Snoopy")
